@@ -12,4 +12,4 @@ This project is a simple function that allows the user to input the file path to
 
 <h2>Environments Used </h2>
 
-- <b>Windows 11</b> (21H2)
+- <b>Windows 11</b> 
